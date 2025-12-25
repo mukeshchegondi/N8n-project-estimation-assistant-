@@ -1,4 +1,4 @@
-# N8n-project-estimation-assistant
+# N8n- AI project-estimation-assistant
 ## Description
 An automated n8n workflow that estimates project duration, effort, and risk using AI based on project requirements.
 
